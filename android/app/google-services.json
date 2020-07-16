@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "802516278382",
+    "firebase_url": "https://random-video-chat-5f5a5.firebaseio.com",
+    "project_id": "random-video-chat-5f5a5",
+    "storage_bucket": "random-video-chat-5f5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802516278382:android:14633168a93623e48d9a7f",
+        "android_client_info": {
+          "package_name": "com.example.random_video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802516278382-q3ad46rs59b51bb7osh2147c2529prsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA446n5WbbIr2O_yCcNtZDu2h9b4kVnNJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802516278382-q3ad46rs59b51bb7osh2147c2529prsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4447765961172076~2866686040"
+    }
+  ],
+  "configuration_version": "1"
+}
